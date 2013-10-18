@@ -1,4 +1,4 @@
-doiv-tpircsavaj.js
+diov-tpircsavaj.js
 ==================
 
 133 Bytes of awesomeness - Abraham Lincoln
@@ -7,7 +7,7 @@ doiv-tpircsavaj.js
 
 [DEMO on Codepen.io](http://codepen.io/LukyVj/full/nfvCx)
 
-[DEMO](http://bullgit.github.io/doiv-tpircsavaj.js)
+[DEMO](http://bullgit.github.io/diov-tpircsavaj.js)
 
 
 
